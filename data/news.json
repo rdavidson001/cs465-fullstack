@@ -1,0 +1,29 @@
+{
+    "1":{
+        "code" : "News_ONE",
+        "title" : "Top bars in town"
+    },
+    "2":{
+        "code" : "News_TWO",
+        "title" : "Top Restaruants"
+    },
+    "3":{
+        "code" : "News_THREE",
+        "title" : "Romantic sceneries"
+    },
+    "4":{
+        "code" : "News_FOUR",
+        "title" : "Best of us!"
+    },
+    "5":{
+        "code" : "News_FROM_AUTHOR",
+        "title" : "Join us for fun, relaxation, and a getaway with Travlrs!",
+        "image" : "sea-sound.jpg",
+        "alt" : "Img",
+        "publishDate" :"2021-02-14T08:00:00Z",
+        "author" : "Robert Davidson",
+        "content" : "Enjoy!"
+
+    }
+    
+}

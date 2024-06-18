@@ -1,0 +1,28 @@
+{
+    "1":{
+        "code" : "About_ONE",
+        "title" : "Top bars in town"
+    },
+    "2":{
+        "code" : "About_TWO",
+        "title" : "Top Restaruants"
+    },
+    "3":{
+        "code" : "About_THREE",
+        "title" : "Romantic sceneries"
+    },
+    "4":{
+        "code" : "About_FOUR",
+        "title" : "Best of us!"
+    },
+    "5":{
+        "code" : "About_FROM_AUTHOR",
+        "title" : "Join us for fun, relaxation, and a getaway with Travlrs!",
+        "image" : "sea-sound.jpg",
+        "alt" : "Img",
+        "publishDate" :"2021-02-14T08:00:00Z",
+        "author" : "Robert Davidson"
+
+    }
+    
+}

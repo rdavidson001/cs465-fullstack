@@ -1,0 +1,28 @@
+{
+    "1":{
+        "code" : "GALERoom",
+        "name" : "Gale Reef",
+        "rate" : "799.00 a night",
+        "image": "deluxe.jpg",
+        "alt" : "Img",
+        "description" : "<p> Beautiful summerset room, viewing all that the Gale has to offer!</p>"
+    },
+    "2":{
+        "code": "DAWSONRoom",
+        "name": "Dawson's Reef",
+        "rate": "1199.00 a night",
+        "image" : "first-class.jpg",
+        "alt" : "Img",
+        "description" : "<p> Enter the Dawson's Reef, an imersive expereince of true beauty of the sea </p>"
+
+    },
+    "3":{
+        "code" : "CLARS",
+        "name" : "Claire's Reef",
+        "rate" : "1999.00 a night",
+        "image" : "suite.jpg",
+        "alt" : "img",
+        "description" : "<p>I don't know, its just a room</p>"
+
+    }
+}

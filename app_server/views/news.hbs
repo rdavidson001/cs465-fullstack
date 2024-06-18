@@ -17,7 +17,7 @@
                                 <div class="sidebar">
                                     <h3>Latest News</h3>
                                     <ul>
-                                        {{#each latestNews}}
+                                        {{#each news}}
                                         <li>
                                             <a href="/api/news/{{this.code}}">{{this.title}}</a>
                                         </li>
@@ -25,22 +25,45 @@
                                     </ul>
                                     <h3>Vacation Tips</h3>
                                     <ul>
-                                        {{#each vacationTips}}
-                                        <li>
-                                            <a href="/api/news/{{this.code}}">{{this.title}}</a>
-                                        </li>
-                                        {{/each}}
+                                        <p>
+                                            Sunscreen
+                                        </p>
+                                        <p>
+                                            Wait 30-min before swimming
+                                        </p>
+                                        <p>
+                                            Plan an itenerary
+                                        </p>
+                                        <p>
+                                            HAVE FUN!
+                                        </p>
                                     </ul>
                                 </div>
                                 <div>
                                     <h1>News</h1>
-                                    <a href="/api/news/{{featured.code}}">
-                                        <img src="images/{{featured.image}}" alt="{{featured.alt}}">
-                                    </a>
-                                    <h2>{{featured.title}}</h2>
-                                    <span class="time">{{featured.publishDate}}<br> by: {{featured.author}}</span>
-                                    {{{featured.content}}}
+                                   
+                                    <h2>Sound Of The Sea</h2>
+                                    <h3>
+                                        Join us for our "Sound of the Sea" festival!
+                                    </h3>
+                                    <p>
+                                        From June, 12th to July 15th, Get a complementary night when you book two or more nights!
+                                    </p>
+                                    <p>
+                                        During the "Sound of the Sea", enjoy multiple festivities, including:
+                                    </p>
+                                    <p>
+                                        - Annual shell hunt
+                                    </p>
+                                    <p>
+                                        - Bark at the Sharks
+                                    </p>
+                                    <p>
+                                        -swimming...just swimming(ran out of fun words)
+                                    </p>
+                                    
                                 </div>
+                                <img src = "images/sea-sound.jpg" alt="Img" width="595">
                             </div>
                         </div>
                     </div>
