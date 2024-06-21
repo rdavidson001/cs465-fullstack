@@ -119,5 +119,5 @@ process.on('SIGTERM', () => {
 connect();
 
  
-
+require('./users');
 require('./travlr');
